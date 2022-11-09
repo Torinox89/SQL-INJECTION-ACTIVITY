@@ -1,0 +1,26 @@
+form {
+	border: 5px solid #f8e092;
+    }
+    
+    input[type=text], input[type=password] {
+	width: 100%;
+	padding: 6px 10px;
+	margin: 8px 4px;
+	display: inline-block;
+	border: 4px solid rgb(10, 9, 9);
+	box-sizing: border-box;
+    }
+    
+    button {
+	background-color: #dbfadc;
+	color: rgb(59, 47, 47);
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: double;
+	cursor: pointer;
+	width: 100%;
+    }
+    
+    button:hover {
+	opacity: 0.4;
+    }
