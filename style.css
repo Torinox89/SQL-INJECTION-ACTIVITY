@@ -1,5 +1,5 @@
 form {
-	border: 5px solid #f8e092;
+	border: 5px solid #165bc4;
     }
     
     input[type=text], input[type=password] {
@@ -12,7 +12,7 @@ form {
     }
     
     button {
-	background-color: #dbfadc;
+	background-color: #46d1ba;
 	color: rgb(59, 47, 47);
 	padding: 14px 20px;
 	margin: 8px 0;
